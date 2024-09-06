@@ -35,4 +35,4 @@ We love hearing from our community! Follow and engage with us on our social medi
 - **[LinkedIn](https://www.linkedin.com/company/uiet-kathua/)**
 - **[Youtube](https://www.youtube.com/@uietkathua/featured)**
 
-🔗 [Visit our Website](https://www.uiet.kathuacampus.in) | [Contribute to Our Projects](https://github.com/UIETJU)
+🔗 [Visit our Website](https://uiet.kathuacampus.in) | [Contribute to Our Projects](https://github.com/UIETJU)
