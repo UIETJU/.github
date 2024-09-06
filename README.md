@@ -27,7 +27,7 @@ Together, let's make UIET Kathua a hub for technological growth and excellence!
 ### Connect With Us
 We love hearing from our community! Follow and engage with us on our social media channels:
 - **[Instagram](https://instagram.com/uietkathua)**
-- **[Facebook](https://facebook.com/uietkathua)**
+- **[Facebook](https://www.facebook.com/UIETKATHUACAMPUS/)**
 - **[Twitter](https://twitter.com/uietkathua)**
 - **[LinkedIn](https://www.linkedin.com/company/uiet-kathua/)**
 
