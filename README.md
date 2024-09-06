@@ -30,5 +30,6 @@ We love hearing from our community! Follow and engage with us on our social medi
 - **[Facebook](https://www.facebook.com/UIETKATHUACAMPUS/)**
 - **[Twitter](https://twitter.com/uietkathua)**
 - **[LinkedIn](https://www.linkedin.com/company/uiet-kathua/)**
+- **[Youtube](https://www.youtube.com/@uietkathua/featured)**
 
-🔗 [Visit our Website](https://www.uiet.kathuacampus.in) | [Contribute to Our Projects](https://github.com/UIETJU)
+🔗 [Visit our Website](uiet.kathuacampus.in) | [Contribute to Our Projects](https://github.com/UIETJU)
