@@ -3,7 +3,7 @@
 At **University Institute of Engineering and Technology, Kathua (UIET JU)**, we are committed to fostering innovation, collaboration, and cutting-edge solutions among our students, faculty, and contributors from the broader tech community.
 
 ### About UIET Kathua
-UIET Kathua, a constituent engineering college of the [University of Jammu](https://jammuuniveristy.ac.in), is dedicated to nurturing the next generation of engineers and technologists. We focus on delivering high-quality education, promoting research, and encouraging students to develop practical skills that align with industry needs. Our campus thrives on a spirit of collaboration and innovation, making it an ideal hub for academic and technical growth.
+UIET Kathua, a constituent engineering college of the [University of Jammu](https://jammuuniversity.ac.in), is dedicated to nurturing the next generation of engineers and technologists. We focus on delivering high-quality education, promoting research, and encouraging students to develop practical skills that align with industry needs. Our campus thrives on a spirit of collaboration and innovation, making it an ideal hub for academic and technical growth.
 
 ### Student-Led IT Cell
 The entire IT landscape of UIET is managed by a dedicated **[student-led IT cell](https://itcell.uietju@gmail.com)**, where student volunteers work selflessly to hone their skills and further UIET's IT image. These volunteers are actively engaged in deploying innovative solutions, maintaining web projects, and ensuring the smooth operation of IT services, all while gaining hands-on experience in the field.
